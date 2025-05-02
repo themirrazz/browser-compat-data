@@ -1,0 +1,20 @@
+{
+    "browsers": {
+        "border_electron": {
+            "name": "Border",
+            "type": "desktop",
+            "preview_name": "Border Canary",
+            "accepts_flags": false,
+            "accepts_webextensions": true,
+            "releases": {
+                "1.10.0": {
+                    "release_date": "2022-06-15",
+                    "status": "retired"
+                },
+                "2.0.0": {
+                    "status": "planned"
+                }
+            }
+        }
+    }
+}
