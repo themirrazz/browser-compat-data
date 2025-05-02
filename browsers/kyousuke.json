@@ -1,0 +1,24 @@
+{
+    "browsers": {
+        "kyousuke": {
+            "name": "Kyōsuke",
+            "type": "desktop",
+            "preview_name": "Kyōsuke Mae",
+            "pref_url": "about:config",
+            "accepts_flags": true,
+            "accepts_webextensions": true,
+            "releases": {
+                "Artifact": {
+                    "release_date": "2025-03-07",
+                    "status": "retired"
+                },
+                "1.0.0-alpha": {
+                    "status": "exclusive"
+                },
+                "1.0.0": {
+                    "status": "planned"
+                }
+            }
+        }
+    }
+}

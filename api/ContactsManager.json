@@ -44,6 +44,21 @@
             "partial_implementation": true,
             "notes": "This API was exposed but failed upon opening a contact selector."
           },
+          "kyousuke": [
+            {
+              "version_added": "1.0.0-alpha",
+              "partial_implementation": true,
+              "notes": "The API exists, but always throws a DOMException for QuotaExceeded on Windows and NotImplemented on other platforms."
+            },
+            {
+              "version_added": "1.0.0",
+              "partial_implementation": true,
+              "notes": "The properties parameter is not required and ignored. All supported properties of the contact will be returned."
+            }
+          ],
+          "border_electron": {
+            "version_added": false
+          },
           "webview_android": "mirror",
           "webview_ios": "mirror"
         },
