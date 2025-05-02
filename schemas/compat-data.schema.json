@@ -163,6 +163,7 @@
           "chrome_android",
           "deno",
           "edge",
+          "edge_android",
           "firefox",
           "firefox_android",
           "ie",
@@ -174,7 +175,18 @@
           "safari_ios",
           "samsunginternet_android",
           "webview_android",
-          "webview_ios"
+          "webview_ios",
+          "kyousuke",
+          "kyousuke_android",
+          "kyousuke_ios",
+          "kyousuke_gyou",
+          "border_electron",
+          "border_android",
+          "border_ios",
+          "brave",
+          "brave_android",
+          "new_nintendo_3ds_browser",
+          "nintendo_switch_browser"
         ]
       },
       "additionalProperties": {
