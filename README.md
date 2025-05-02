@@ -1,4 +1,7 @@
-# `@mdn/browser-compat-data`
+# im gonna add more compatibility data for lesser-known/niche browsers
+and this time i made sure to fork the right repository lol
+
+## `@mdn/browser-compat-data`
 
 [https://github.com/mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
 
